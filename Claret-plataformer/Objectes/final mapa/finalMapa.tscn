@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://cuvapvl382rpk"]
+
+[ext_resource type="PackedScene" uid="uid://c4itr5hgm1hfr" path="res://Personatges/hazard_area.tscn" id="2_aohax"]
+
+[node name="FinalMapa" type="Node2D"]
+
+[node name="HazardArea" parent="." instance=ExtResource("2_aohax")]
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="HazardArea"]
+scale = Vector2(0.773132, 0.414548)
+polygon = PackedVector2Array(0, -8, 0, -8, 768, -8, 768, 0, 0, 0)
