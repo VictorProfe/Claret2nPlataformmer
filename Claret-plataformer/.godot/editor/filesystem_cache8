@@ -1,0 +1,64 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1700830089
+level_one.tscn::PackedScene::367899564587169031::1700227571::0::1::::<><>::uid://dxev2igc1wpv5
+README.md::TextFile::-1::1700229098::0::1::::<><>::
+spikes.tscn::PackedScene::2195552332480729669::1700227571::0::1::::<><>::uid://bery1gkgvet26
+::res://assets/::1700227571
+::res://assets/imatges/::1700228236
+black_9slice.png::CompressedTexture2D::2508631972299587188::1700227571::1700228236::1::::<><>::
+heart.png::CompressedTexture2D::4098403910358345778::1700227571::1700228236::1::::<><>::
+player.png::CompressedTexture2D::7289043705099283713::1700227571::1700228236::1::::<><>::
+slopes.png::CompressedTexture2D::2261458886224606314::1700227571::1700228236::1::::<><>::
+slopes_flipped.png::CompressedTexture2D::5310562500351696884::1700227571::1700228236::1::::<><>::
+spikes.png::CompressedTexture2D::2703774449421169969::1700227571::1700228236::1::::<><>::
+white_9slice.png::CompressedTexture2D::5894369305210124903::1700227571::1700228236::1::::<><>::
+::res://assets/tileset/::1700228236
+tileset.png::CompressedTexture2D::2854665884277872011::1700227571::1700228236::1::::<><>::
+::res://Menus/::1700227571
+::res://Menus/Menu fi/::1700227571
+victory_screen.gd::GDScript::-1::1700227571::0::1::::<>CenterContainer<>::
+victory_screen.tscn::PackedScene::6818218920967384761::1700227571::0::1::::<><>::res://Menus/Menu fi/victory_screen.gd
+::res://Menus/Menu inici/::1700229097
+start_menu.gd::GDScript::-1::1700227571::0::1::::<>CenterContainer<>::
+start_menu.tscn::PackedScene::5076358790681828708::1700229097::0::1::::<><>::res://Menus/Menu inici/start_menu.gd
+::res://Menus/Menu nivell completat/::1700227571
+level_completed.gd::GDScript::-1::1700227571::0::1::::<>ColorRect<>::
+level_completed.tscn::PackedScene::4869111591927229248::1700227571::0::1::::<><>::res://Menus/Menu nivell completat/level_completed.gd
+::res://Nivells/::1700227571
+level_tile_map.tscn::PackedScene::4069154945899892697::1700227571::0::1::::<><>::uid://bgw26vem2qijj
+::res://Nivells/Nivell 1/::1700227571
+level_one.tscn::PackedScene::2468218427440006708::1700227571::0::1::::<><>::uid://dxev2igc1wpv5
+::res://Nivells/Nivell 2/::1700227571
+level_two.tscn::PackedScene::4300578531730592719::1700227571::0::1::::<><>::uid://dxev2igc1wpv5
+::res://Nivells/Transició entre nivells/::1700227571
+level_transition.gd::GDScript::-1::1700227571::0::1::::<>CanvasLayer<>::
+level_transition.tscn::PackedScene::189340917428436552::1700227571::0::1::::<><>::res://Nivells/Transició entre nivells/level_transition.gd
+::res://Objectes/::1700227571
+Events.gd::GDScript::-1::1700227571::0::1::::<>Node<>::
+::res://Objectes/cor/::1700227571
+heart.gd::GDScript::-1::1700227571::0::1::::<>Area2D<>::
+heart.tscn::PackedScene::4670739156778196310::1700227571::0::1::::<><>::uid://bynkd4lxs6sja
+::res://Objectes/final mapa/::1700227571
+finalMapa.tscn::PackedScene::6219998081191252468::1700227571::0::1::::<><>::uid://c4itr5hgm1hfr
+::res://Objectes/obstacleRandom/::1700227571
+obstacleRandom.tscn::PackedScene::1174215172316439121::1700227571::0::1::::<><>::uid://bb0g2jgqog877
+::res://Objectes/spikes/::1700227571
+spikesNew.tscn::PackedScene::5369052054372452769::1700227571::0::1::::<><>::uid://bery1gkgvet26
+::res://Objectes/spikes girats/::1700227571
+spikesGirats.tscn::PackedScene::6789123138174976835::1700227571::0::1::::<><>::uid://bery1gkgvet26
+::res://Personatges/::1700227571
+DefaultMovementData.tres::Resource/Resource::927142461659740688::1700227571::0::1::::<><>::res://Personatges/PlayerMovementData.gd
+FasterMovementData.tres::Resource/Resource::3364191796044826578::1700227571::0::1::::<><>::res://Personatges/PlayerMovementData.gd
+hazard_area.tscn::PackedScene::6826018423084379495::1700227571::0::1::::<><>::
+player.gd::GDScript::-1::1700227571::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::4395689136921678251::1700227571::0::1::::<><>::res://Personatges/player.gd<>uid://nhd5voo3ikx1
+PlayerMovementData.gd::GDScript::-1::1700227571::0::1::::PlayerMovementData<>Resource<>::
+SlowMovementData.tres::Resource/Resource::2542353391535365843::1700227571::0::1::::<><>::res://Personatges/PlayerMovementData.gd
+::res://Theme/::1700228236
+black_9slice.tres::StyleBoxTexture::1989718134777952667::1700227571::0::1::::<><>::uid://bb0g2jgqog877
+default_theme.tres::Theme::3173947858384589312::1700227571::0::1::::<><>::uid://3l3mqhymi5c6
+pixel_font.ttf::FontFile::4954371677160749859::1700227571::1700228236::1::::<><>::
+white_9slice.tres::StyleBoxTexture::9156916769484239997::1700227571::0::1::::<><>::uid://cp8jnv44e4h3l
+::res://World/::1700227571
+world.gd::GDScript::-1::1700227571::0::1::::<>Node2D<>::
+world.tscn::PackedScene::8783186668635941044::1700227571::0::1::::<><>::res://World/world.gd<>uid://b3vkmfxunohh8
